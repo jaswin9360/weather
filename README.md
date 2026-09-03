@@ -17,10 +17,10 @@ npm start
 ```
 
 Backend:
-http://localhost:5000
+http://localhost:7001
 
 Test:
-http://localhost:5000/api/weather?city=Coimbatore
+https://weather-api-y89y.onrender.com/api/weather?city=Coimbatore
 
 ## 2. Start frontend
 
